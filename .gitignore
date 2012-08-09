@@ -6,3 +6,5 @@ collective.recipe.backup.egg-info
 coverage
 develop-eggs
 parts
+.project
+.pydevproject
